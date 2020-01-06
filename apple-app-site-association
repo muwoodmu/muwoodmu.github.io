@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "4L4UV5Z6Y4.com.mumu.desk",
+                "paths": [ "/wxshare/*"]
+            }
+        ]
+    }
+}
